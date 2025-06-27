@@ -1,0 +1,23 @@
+.video-section {
+  background-color: #f8f9fa;
+  padding: 2rem 1rem;
+}
+
+.video-card {
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.video-card:hover {
+  transform: scale(1.02);
+}
+
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.card-text {
+  font-size: 0.95rem;
+  color: #333;
+}
