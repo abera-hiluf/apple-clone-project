@@ -1,12 +1,27 @@
-# React + Vite
+# 🍏 Apple Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern front-end website inspired by Apple’s official homepage.  
+Designed to mimic Apple’s sleek style, responsive layout, and smooth animations for a premium user experience.
 
-Currently, two official plugins are available:
+## ✨ Features
+- **Apple-Inspired UI:** Minimalist and elegant design inspired by Apple's branding.
+- **Responsive Layout:** Works seamlessly across desktop, tablet, and mobile devices.
+- **Smooth Animations:** Engaging transitions and hover effects for an interactive feel.
+- **Pixel-Perfect Design:** Careful attention to typography, spacing, and color palette.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖥️ Technologies Used
 
-## Expanding the ESLint configuration
+| Technology    | Purpose |
+|---------------|---------|
+| **HTML5** | Structure and semantic markup for the site. |
+| **CSS3** | Styling, responsive layouts, and animations. |
+| **JavaScript (ES6)** | Adds interactivity and dynamic behavior. |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+- **Website:** [Apple Clone Live](https://shiny-cheesecake-119b53.netlify.app/)
+
+## 📦 Installation
+
+### Clone the repository
+```bash
+git clone <your-repo-link>
